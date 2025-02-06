@@ -1,2 +1,2 @@
 Hello World!
-hello *conflicts your commit*
+hello *conflicts your commit
